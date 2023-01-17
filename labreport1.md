@@ -9,10 +9,15 @@
 ## Remotely Connecting
 1. For this section, you will learn how to use VS Code/terminal to connect to a remote computer over the Internet to do work there. Situations where you will have to work elsewhere may occur when working on other systems at different institutions or a future job.
 2. Install `git` 
-3. To use `ssh`, open a terminal in VS Code and put in the command below, replacing the `zz` with the letters in your course-specific account.
+3. To use `ssh`, open a terminal in VS Code and put in the command below, replacing the `zz` with the letters in your course-specific account. (Don't include the `$`! It's just a convention for how to write commands.)
 
 `$ ssh cs15lwi23zz@ieng6.ucsd.edu`
 
-(Don't include the `$`! It's just a convention for how to write commands.)
+4. Because this is your first time connecting to this server, you will receive a message that looks like this:
+
+`⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? `
 
 ## Testing Commands
