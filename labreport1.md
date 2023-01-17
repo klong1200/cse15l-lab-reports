@@ -10,7 +10,9 @@
 1. For this section, you will learn how to use VS Code/terminal to connect to a remote computer over the Internet to do work there. Situations where you will have to work elsewhere may occur when working on other systems at different institutions or a future job.
 2. Install `git` 
 3. To use `ssh`, open a terminal in VS Code and put in the command below, replacing the `zz` with the letters in your course-specific account.
+
 `$ ssh cs15lwi23zz@ieng6.ucsd.edu`
+
 (Don't include the `$`! It's just a convention for how to write commands.)
 
 ## Testing Commands
