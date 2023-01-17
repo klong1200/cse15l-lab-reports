@@ -42,10 +42,13 @@ On your remote server:
 ## Testing Commands
 1. Run some codes `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times in different ways on both **your computer** and on the **remote computer**.
 2. Specific commands to try:
-  - cd ~
-  - cd
-  - ls -lat
-  - ls -a
-  - ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
-  - cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
-  - cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+  - `cd ~`
+  - `cd`
+  - `ls -lat`
+  - `ls -a`
+  - `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abc`, where the `abc` is one of the other group members’ username
+  - `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+  - `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
+
+  Here is what I saw:
+  
