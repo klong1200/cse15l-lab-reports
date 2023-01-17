@@ -15,13 +15,12 @@
 
 4. Because this is your first time connecting to this server, you will receive a message that looks like this:
 
-`⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
-
+````
+⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
-
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
-
-Are you sure you want to continue connecting (yes/no/[fingerprint])? `
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+````
 
 5. Type `yes` and press enter. Then, enter your password. The interaction should look like this:
 
