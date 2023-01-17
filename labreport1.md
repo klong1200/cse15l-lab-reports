@@ -50,4 +50,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 Sun Jan 02, 2022 11:28pm - Prepping cs15lwi23
 ```
 
+6. You are now connected to the CSE Basement!
+
 ## Testing Commands
+1. 
