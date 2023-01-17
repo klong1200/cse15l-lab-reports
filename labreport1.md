@@ -35,7 +35,7 @@ Password:
 
 On your remote server:
 
-![Image](remote_connecting_terminal)
+![Image](remote_connecting_terminal.png)
 
 6. You are now connected to the CSE Basement!
 
