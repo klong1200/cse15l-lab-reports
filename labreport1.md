@@ -53,7 +53,7 @@ On your remote server:
   - `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
     - For this specific command, cat will print the contents in this file: /home/linux/ieng6/cs15lwi23/public/hello.txt.
   
-  - From running the commands above, I learned what each of them did. 
+  - From running the commands above, I learned what each of them did. By adding a specific path for each line, I was able to uncover what is printed in the terminal too! It's interesting how certain combinations of letters as a path will do with each command since it is not always obvious what each will do. The hands on learning is great for figuring out each purpose of the commands.
 
   Here is what I saw:
   
