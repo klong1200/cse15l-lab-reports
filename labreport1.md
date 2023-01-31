@@ -44,11 +44,16 @@ On your remote server:
 2. Specific commands to try:
   - `cd ~`
   - `cd`
-  - `ls -lat`
+    -  cd stands for *"Change Directory"*. We use this command when we want to switch to a new directory from the current working one. The `~` is an abbreviation of the home directory, where user specific files are stored.
   - `ls -a`
   - `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi23/cs15lwi23abc`, where the `abc` is one of the other group members’ username
+    -  ls stands for *"List"*. When used, this comamnd will print out a list of the files and folders in the given path in one single line. The `-a` will show the whole list of files and folders, even the hidden ones.
   - `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+    - cp stands for copy. The above command will copy the contents in that specific file.
   - `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
+    - For this specific command, cat will print the contents in this file: /home/linux/ieng6/cs15lwi23/public/hello.txt.
+  
+  - From running the commands above, I learned what each of them did. 
 
   Here is what I saw:
   
