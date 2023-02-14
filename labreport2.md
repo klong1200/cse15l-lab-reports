@@ -1,4 +1,5 @@
 # CSE 15L Week 3 Lab Report 2 - Servers and Bugs
+![Image](code.png)
 
 ## Part 1
 Hello grader. I apologize for wasting your time, but I am unsure how to do this. I will attend office hours starting this week. I am so sorry, but I have been having trouble balancing school work.
